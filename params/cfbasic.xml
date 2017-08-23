@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fields name="fieldparams">
+		<fieldset name="fieldparams">
+			<field
+				name="showvalue"
+				type="radio"
+				label="PLG_FIELDS_CFBASIC_PARAMS_SHOW_LABEL"
+				description="PLG_FIELDS_CFBASIC_PARAMS_SHOW_DESCRIPTION"
+				class="btn-group btn-group-yesno"
+				default="1"
+				>
+				<option value="1">JSHOW</option>
+				<option value="0">JHIDE</option>
+			</field>
+		</fieldset>
+	</fields>
+</form>
+
+<!--
+Standard form field types: https://docs.joomla.org/Standard_form_field_types
+-->
