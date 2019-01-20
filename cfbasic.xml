@@ -7,7 +7,7 @@
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<authorEmail>info@sergioiglesias.net</authorEmail>
 	<authorUrl>https://sergioiglesias.net</authorUrl>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<description>PLG_FIELDS_CFBASIC_XML_DESCRIPTION</description>
 	<files>
 		<filename plugin="cfbasic">cfbasic.php</filename>
